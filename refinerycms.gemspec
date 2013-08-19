@@ -6,7 +6,7 @@ version = Refinery::Version.to_s
 Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.name              = %q{refinerycms}
-  s.version           = version
+  s.version           = %q{2.1.0}
   s.description       = %q{A Ruby on Rails CMS that supports Rails 3.2. It's easy to extend and sticks to 'the Rails way' where possible.}
   s.summary           = %q{A Ruby on Rails CMS that supports Rails 3.2}
   s.email             = %q{info@refinerycms.com}
